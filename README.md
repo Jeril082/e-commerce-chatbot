@@ -118,3 +118,11 @@ curl -X POST -H "Content-Type: application/json" -d '{"session_id": "test_sessio
 # Checkout
 curl -X POST -H "Content-Type: application/json" -d '{"session_id": "test_session_1", "message": "Checkout"}' [http://127.0.0.1:5001/chat](http://127.0.0.1:5001/chat)
 
+
+
+
+## 👨‍💻 Author
+
+Jeril Joseph
+Cybersecurity & AI Enthusiast
+
